@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: hi guys i am srujana
 ---
 
